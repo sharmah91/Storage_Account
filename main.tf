@@ -13,7 +13,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "RG" {
-  name     = "RG_Hitesh_2"
+  name     = "RG_Hitesh_1"
   location = "East US"
 }
 
